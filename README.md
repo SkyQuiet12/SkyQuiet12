@@ -1,5 +1,8 @@
 ### Hi there, I'm SkyQuiet
 
+<a href="https://www.oracle.com/java/technologies/downloads/"><img src="https://img.shields.io/badge/Java-17.0.2-blue"/></a>
+<a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ-IDEA-red"/></a>
+
 <!--
 **SkyQuiet12/SkyQuiet12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
