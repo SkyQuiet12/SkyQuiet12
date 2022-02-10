@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm SkyQuiet
 
 <!--
 **SkyQuiet12/SkyQuiet12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![This is an image](https://yt3.ggpht.com/opiGNGuR2h4TqpupDE7JRN9NZDAm52Mvu0ZlFDhn3sAooDbWI-yfuTVF6iIYxkijNjNGQ_NwYkg=s900-c-k-c0x00ffffff-no-rj)
+
+**High School student 🤓 @ [CESJDS](https://www.cesjds.org).**
+
+- 👨‍💻 I love coding and learning new things
+- 🤩 I'm interested in Java, Python and anything that has to do with coding
