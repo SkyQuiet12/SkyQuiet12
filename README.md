@@ -1,4 +1,4 @@
-### Hi there, I'm SkyQuiet
+### Hi there, I'm Yoav Amit
 
 <a href="https://www.oracle.com/java/technologies/downloads/"><img src="https://img.shields.io/badge/Java-17.0.2-blue"/></a>
 <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ-IDEA-red"/></a>
